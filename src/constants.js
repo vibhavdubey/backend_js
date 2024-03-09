@@ -1,0 +1,1 @@
+export const DB_NAME = "vibhav_db"     // db name
